@@ -22,6 +22,14 @@ Here is a small sample of the projects related to mathematics that I have worked
 Optimizing the accoustic liner repartition in a plane engine to minimize the noise percieved in cities by planes. Given a budget equal to a fraction of the available area, develop analytical and numerical tools to find the best repartition of the liner over the propulser's contour.
 
 ![Optimized Liner](liner_optimized_beta0.4.png)
+```
+The optimized liner repartition using genetic algorithm.
+```
+
+![Equation](equations8.JPG)
+```
+The Form derivation obtained on Helmoltz Equation for the first time in our paper.
+```
 
 [Link to the LateX report](https://xwkya.github.io/rapport_projet_S8(2).pdf)
 
