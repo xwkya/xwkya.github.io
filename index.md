@@ -9,7 +9,7 @@ layout: default
 * Machine Learning Engineer and Mathematician
 
 
-I'm currently in a double diploma Msc by research at the **National University of Singapore**. I have studied in French top Engineering School **Centrale Supélec** for my Masters degree, focusing on fundamental Mathematics and Engineering. I hold a Bachelor's degree in mathematics from the #1 school in mathematics in the world [#1 school in mathematics in the world ](https://www.shanghairanking.com/rankings/gras/2021/RS0101), **Université Paris-Saclay**. I have studied in the intense _classe Préparatoire aux grandes Ecoles_ **Lycée Thiers** for 2 years to prepare for the entrance examination for Engineering School.
+I'm currently in a double diploma Msc by research at the **National University of Singapore**. I have studied in French top Engineering School **Centrale Supélec** for my Masters degree, focusing on fundamental Mathematics and Engineering. I hold a Bachelor's degree in mathematics from the [#1 school in mathematics in the world ](https://www.shanghairanking.com/rankings/gras/2021/RS0101), **Université Paris-Saclay**. I have studied in the intense _Classe Préparatoire aux Grandes Ecoles (CPGE)_ **Lycée Thiers** for 2 years to prepare for the entrance examination for Engineering School.
 
 > My main motivation is to make models that will one day impress the world
 
@@ -21,15 +21,14 @@ Here is a small sample of the projects related to mathematics that I have worked
 
 Optimizing the accoustic liner repartition in a plane engine to minimize the noise percieved in cities by planes. Given a budget equal to a fraction of the available area, develop analytical and numerical tools to find the best repartition of the liner over the propulser's contour.
 
+> The optimized liner repartition using genetic algorithm.
 ![Optimized Liner](liner_optimized_beta0.4.png)
-```
-The optimized liner repartition using genetic algorithm.
-```
 
+<br/>
+
+> The Form derivation obtained on Helmoltz Equation for the first time in our paper.
 ![Equation](equations8.JPG)
-```
-The Form derivation obtained on Helmoltz Equation for the first time in our paper.
-```
+
 
 [Link to the LateX report](https://xwkya.github.io/rapport_projet_S8(2).pdf)
 
