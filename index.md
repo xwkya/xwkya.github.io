@@ -101,7 +101,8 @@ Just put a sudoku in front of your camera and watch the code solve. The solving 
 
 <p align='center'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8zYfBG6oP3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<\p>
+      
 [Github repo](https://github.com/xwkya/sudoku-solver)
       
 
