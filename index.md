@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include html_meta %}
+    <title>How to use MathJax in Jekyll generated Github pages -- Haixing Hu's Homepage</title>
+    <link href="/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
+  </head>
+  <body>
+    {% include navigation_bar %}
+    <div class="container-narrow">
+      <div class="content">
+        {{ content }}
+      </div>
+      <hr/>
+      {% include footer %}
+    </div>
+    {% include JB/analytics %}
+  </body>
+</html>
+
 ---
 layout: default
 ---
@@ -39,7 +63,8 @@ Optimizing the accoustic liner repartition in a plane engine to minimize the noi
 Scraping and analysis of thousands of data about a specific online casino game. Attempt to predict the data with a RNN depending on the total amount at stake and the number of players. No correlation found.
 
 > Sample of analysis made
-![Probability of winning](prob_winning_100_compare.png)
+> 
+> ![Probability of winning](prob_winning_100_compare.png)
 
 
 [Link to the LateX report](https://xwkya.github.io/JetX(4).pdf)
@@ -54,8 +79,24 @@ Development of a statistical test on data distribution based on number of record
 
 [Link to the LateX report (In french)](https://xwkya.github.io/Stats_des_records.pdf)
 
-### Header 3
+## Machine Learning Projects
 
+### Amazon comments sentiment analysis
+
+Notebook to learn how to process sentences using lemmatization, embedding, SBERT preprocessing and LSTM cells. One of the other aspect is cleaning and working with huge amount of data. The final product is fun to play with and the high-low accuracy (binary classification $$>=4 stars or <=3 stars)
+
+> The user can input his own comment and the model will predict how many stars the user would have assigned based on the comment.
+```
+sentence_pred_batch("Although I thought it would be funny, I was a bit disappointed by the poor performance of the actors and the gross jokes.")
+ >>> 2.52000
+
+high_low_accuracy=(np.sum(confusion_matrix[:3,:3])+np.sum(confusion_matrix[3:,3:]))/np.sum(confusion_matrix)
+print("high/low accuracy: ", high_low_accuracy)
+ >>> high/low accuracy:  0.89588
+```
+$x \leq y$
+
+### Explanations
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
