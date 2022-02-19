@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Kya's Profile
+# Paul Hainsselin Profile
 ## About me
-* Paul
+* Paul Hainsselin
 * 21 Earth laps around the sun
 * Machine Learning Engineer and Mathematician
 
