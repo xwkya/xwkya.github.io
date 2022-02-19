@@ -73,7 +73,7 @@ print("high/low accuracy: ", high_low_accuracy)
  >>> high/low accuracy:  0.89588
 ```
 
-[Link to the ipynb file](amazon_sentiment_analysis.ipynb)
+[Link to the ipynb file](https://github.com/xwkya/xwkya.github.io/blob/main/amazon_sentiment_analysis.ipynb)
 
 ### GENETIC ALGORITHMS FOR TASKS SCHEDULING PROBLEM
 
@@ -82,7 +82,15 @@ Optimizing the schedule of tasks with dependencies on N processors using Genetic
 > Workload of the tasks on 4 processors, empty slots mean that no task can be executed because the dependencies are not ready.
 > <img src="workload.JPG" height="500">
 
-[Link to the LateX report](ST7_long_report.pdf)
+[Link to the LateX report](https://xwkya.github.io/ST7_long_report.pdf)
+
+### Mosaic Project
+
+Work in progress. Create a mosaic from an image and a possible tileset of replacements. Optimizing with Neural Netwok policy. Exploring other possible uneven mosaics.
+
+> Exemple of a mosaic
+> ![mosaic](mosaic.jpg)
+
 
 ## Fun Projects
 
@@ -95,23 +103,4 @@ Just put a sudoku in front of your camera and watch the code solve. The solving 
 
 [Github repo](https://github.com/xwkya/sudoku-solver)
       
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
