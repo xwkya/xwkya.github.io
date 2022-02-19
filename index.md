@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# About Me
+# Kya's Profile
+## About me
 * Paul
 * 21 Earth laps around the sun
 * Machine Learning Engineer and Mathematician
@@ -12,11 +13,11 @@ I'm currently in a double diploma Msc by research at the **National University o
 
 > My main motivation is to make models that will one day impress the world
 
-# Mathematics projects
+## Mathematics projects
 
 Here is a small sample of the projects related to mathematics that I have worked on.
 
-## Onera Liner Optimisation
+### Onera Liner Optimisation
 
 [Link to the LateX report](https://xwkya.github.io/rapport_projet_S8.pdf)
 
