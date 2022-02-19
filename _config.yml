@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Kya's Portfolio
 description: Simple presentation of myself and my projects
+markdown: kramdown
