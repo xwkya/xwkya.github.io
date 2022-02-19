@@ -3,12 +3,13 @@ layout: default
 ---
 
 # About Me
-> * Paul
-> * 21 Earth laps around the sun
-> * Machine Learning Engineer and Mathematician
-> I enjoy designing models and watch them get better. I also enjoy mathematical challenges and applying my maths skills to Computer Science problems.
+* Paul
+* 21 Earth laps around the sun
+* Machine Learning Engineer and Mathematician
 
 I'm currently in a double diploma Msc by research at the **National University of Singapore**. I have studied in French top Engineering School **Centrale Supélec** for my Masters degree, focusing on fundamental Mathematics and Engineering. I hold a Bachelor's degree in mathematics from the #1 school in mathematics in the world [#1 school in mathematics in the world ](https://www.shanghairanking.com/rankings/gras/2021/RS0101), **Université Paris-Saclay**. I have studied in the intense _classe Préparatoire aux grandes Ecoles_ **Lycée Thiers** for 2 years to prepare for the entrance examination for Engineering School.
+
+> My main motivation is to make models that will one day impress the world
 
 # Header 1
 
