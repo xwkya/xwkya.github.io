@@ -59,7 +59,7 @@ Development of a statistical test on data distribution based on number of record
 
 ### Amazon comments sentiment analysis
 
-Notebook to learn how to process sentences using lemmatization, embedding, SBERT preprocessing and LSTM cells. One of the other aspect is cleaning and working with huge amount of data. The final product is fun to play with and the high-low accuracy (binary classification $$>=4 stars or <=3 stars)
+Notebook to learn how to process sentences using lemmatization, embedding, SBERT preprocessing and LSTM cells. One of the other aspect is cleaning and working with huge amount of data. The final product is fun to play with and the high-low accuracy (binary classification >=4 stars or <=3 stars)
 
 > The user can input his own comment and the model will predict how many stars the user would have assigned based on the comment.
 ```
@@ -70,7 +70,6 @@ high_low_accuracy=(np.sum(confusion_matrix[:3,:3])+np.sum(confusion_matrix[3:,3:
 print("high/low accuracy: ", high_low_accuracy)
  >>> high/low accuracy:  0.89588
 ```
-$x \leq y$
 
 ### Explanations
 ```js
