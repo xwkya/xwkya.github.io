@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I'm currently in a Msc by research at the National University of Singapore. I have studied in French top Engineering School Centrale Supélec, focusing on fundamental Mathematics and Engineering.
+I'm currently in a double diploma Msc by research at the **National University of Singapore**. I have studied in French top Engineering School **Centrale Supélec** for my Masters degree, focusing on fundamental Mathematics and Engineering. I have the a Bachelor's degree in mathematics from the #1 school in mathematics in the world [#1 school in mathematics in the world ](https://www.shanghairanking.com/rankings/gras/2021/RS0101), **Université Paris-Saclay**.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
