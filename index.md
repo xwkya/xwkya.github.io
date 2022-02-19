@@ -82,21 +82,19 @@ Optimizing the schedule of tasks with dependencies on N processors using Genetic
 > Workload of the tasks on 4 processors, empty slots mean that no task can be executed because the dependencies are not ready.
 > <img src="workload.JPG" height="500">
 
-###### Header 6
+[Link to the LateX report](ST7_long_report.pdf)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
+## Fun Projects
 
 ### Live Sudoku Solver
+
+Just put a sudoku in front of your camera and watch the code solve. The solving process is slowed to let the user see the workings of the algorithm.
 
 <p align='center'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8zYfBG6oP3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Github repo](https://github.com/xwkya/sudoku-solver)
+      
 ### Definition lists can be used with HTML syntax.
 
 <dl>
