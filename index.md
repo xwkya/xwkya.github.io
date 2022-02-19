@@ -38,7 +38,7 @@ Optimizing the accoustic liner repartition in a plane engine to minimize the noi
 
 Scraping and analysis of thousands of data about a specific online casino game. Attempt to predict the data with a RNN depending on the total amount at stake and the number of players. No correlation found.
 
->Sample of analysis made
+> Sample of analysis made
 ![Probability of winning](prob_winning_100_compare.png)
 
 
@@ -50,7 +50,7 @@ Scraping and analysis of thousands of data about a specific online casino game. 
 Development of a statistical test on data distribution based on number of records. Analysis of best permutation sample to augment the data.
 
 >Statistical test formula based on the number of records
-[Equation Records](equation_records.JPG)
+![Equation Records](equation_records.JPG)
 
 [Link to the LateX report (In french)](https://xwkya.github.io/Stats_des_records.pdf)
 
