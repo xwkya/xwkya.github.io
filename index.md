@@ -2,13 +2,13 @@
 layout: default
 ---
 
+# About Me
+
+I'm currently in a Msc by research at the National University of Singapore. I have studied in French top Engineering School Centrale Supélec, focusing on fundamental Mathematics and Engineering.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
