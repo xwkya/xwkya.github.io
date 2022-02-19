@@ -13,6 +13,8 @@ I'm currently in a double diploma Msc by research at the **National University o
 
 > My main motivation is to make models that will one day impress the world
 
+
+
 ## Mathematics projects
 
 Here is a small sample of the projects related to mathematics that I have worked on.
@@ -31,6 +33,26 @@ Optimizing the accoustic liner repartition in a plane engine to minimize the noi
 
 
 [Link to the LateX report](https://xwkya.github.io/rapport_projet_S8(2).pdf)
+
+### JetX - Gambling website statistics
+
+Scraping and analysis of thousands of data about a specific online casino game. Attempt to predict the data with a RNN depending on the total amount at stake and the number of players. No correlation found.
+
+>Sample of analysis made
+![Probability of winning](prob_winning_100_compare.png)
+
+
+[Link to the LateX report](https://xwkya.github.io/JetX(4).pdf)
+
+
+### Record Theory \[French report\]
+
+Development of a statistical test on data distribution based on number of records. Analysis of best permutation sample to augment the data.
+
+>Statistical test formula based on the number of records
+[Equation Records](equation_records.JPG)
+
+[Link to the LateX report (In french)](https://xwkya.github.io/Stats_des_records.pdf)
 
 ### Header 3
 
