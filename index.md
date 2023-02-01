@@ -88,7 +88,7 @@ Optimizing the schedule of tasks with dependencies on N processors using Genetic
 
 Work in progress. Create a mosaic from an image and a possible tileset of replacements. Optimizing with Neural Netwok policy. Exploring other possible uneven mosaics.
 
-> Exemple of a mosaic
+> Example of a mosaic
 > 
 > <img src="mosaic.png" height="500">
 
