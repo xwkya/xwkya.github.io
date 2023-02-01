@@ -90,7 +90,7 @@ Work in progress. Create a mosaic from an image and a possible tileset of replac
 
 > Exemple of a mosaic
 > 
-> <img src="mosaic.jpg" height="500">
+> <img src="mosaic.png" height="500">
 
 
 ## Fun Projects
