@@ -104,5 +104,11 @@ Just put a sudoku in front of your camera and watch the code solve. The solving 
 </p>
       
 [Github repo](https://github.com/xwkya/sudoku-solver)
-      
+
+### Binary 17-bit calculator
+
+Made this calculator on the famous game Minecraft when I was 15 years old (Old video for dating purpose, muting the volume is recommended)
+p align='center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymo-nCiln8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
